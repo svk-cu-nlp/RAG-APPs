@@ -1,2 +1,3 @@
 This folder contains all the projects related to document question Answering. The list is as follows - 
-1)  [Software Requirements QA generation, Clustering](Software_Requirements_QA_Generation_Clustering.ipynb)
+1)  [Software Requirements QA, requirements generation, Clustering](Software_Requirements_QA_Generation_Clustering.ipynb) : This project utilizes RAG mechanism to build QA system over software requirements specifications. This project utilizes langchain, chromadb huggingface Hub and Together AI.
+2)  [GDPR Compliance checking and Security Vulnerabilities Assessment](GDPR_Compliance_&_Vulnerability_Detection_with_LLaMA2_NLI_70b.ipynb): This project utilizes RAG mechanism to build QA system and prompts are given in such a way to assess the GDPR compliance software requirements and also finds potential security issues within the requirements.
